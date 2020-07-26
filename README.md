@@ -6,8 +6,8 @@ What makes a password safe?
 
 
 This Programm is using the hashlib library in python and the haveibeenpwned api to check if your password is secure 
-Also using the getpass library to not show the input because a password is sensetive information
 
+Also has a barebones interface now with tkinter but it looks bad
 
 
 
